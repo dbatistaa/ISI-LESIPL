@@ -1,11 +1,11 @@
 CREATE TABLE IF NOT EXISTS login_events (
     id SERIAL PRIMARY KEY,
-    event_timestamp TIMESTAMP,
+    raw_timestamp VARCHAR(45),
     server_hostname VARCHAR(100),
     auth_status VARCHAR(20),
     username VARCHAR(100),
     source_ip VARCHAR(45),
-    source_port INT,
+    source_port VARCHAR(45),
     country VARCHAR(100),
     city VARCHAR(100),
     isp VARCHAR(255),
