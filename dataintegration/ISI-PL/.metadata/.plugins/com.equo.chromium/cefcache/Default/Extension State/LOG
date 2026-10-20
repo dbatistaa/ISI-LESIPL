@@ -1,2 +1,3 @@
-2026/10/15-20:32:33.183 27f03 Creating DB /Users/dbatista/ISI-PL/.metadata/.plugins/com.equo.chromium/cefcache/Default/Extension State since it was missing.
-2026/10/15-20:32:33.203 27f03 Reusing MANIFEST /Users/dbatista/ISI-PL/.metadata/.plugins/com.equo.chromium/cefcache/Default/Extension State/MANIFEST-000001
+2026/10/20-21:03:24.009 21903 Reusing MANIFEST /Users/dbatista/isi-auth-audit/dataintegration/ISI-PL/.metadata/.plugins/com.equo.chromium/cefcache/Default/Extension State/MANIFEST-000001
+2026/10/20-21:03:24.010 21903 Recovering log #3
+2026/10/20-21:03:24.014 21903 Reusing old log /Users/dbatista/isi-auth-audit/dataintegration/ISI-PL/.metadata/.plugins/com.equo.chromium/cefcache/Default/Extension State/000003.log 

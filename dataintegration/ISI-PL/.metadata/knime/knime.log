@@ -2763,3 +2763,221 @@ Caused by: java.lang.NullPointerException: String value can't be null.
 2026-10-20 20:57:10,258 : INFO  : KNIME-Worker-148-DB Row Inserter 3:16 :  : LocalNodeExecutionJob : DB Row Inserter : 3:16 : DB Row Inserter 3:16 End execute (0 secs)
 2026-10-20 20:57:31,444 : INFO  : KNIME-Worker-149-DB Row Inserter 3:16 :  : LocalNodeExecutionJob : DB Row Inserter : 3:16 : DB Row Inserter 3:16 End execute (0 secs)
 2026-10-20 20:57:38,791 : INFO  : KNIME-Worker-150-DB Row Inserter 3:16 :  : LocalNodeExecutionJob : DB Row Inserter : 3:16 : DB Row Inserter 3:16 End execute (0 secs)
+2026-10-20 21:03:20,373 : INFO  : main :  : NodeLogger :  :  : #########################################################################################
+2026-10-20 21:03:20,374 : INFO  : main :  : NodeLogger :  :  : #                                                                                       #
+2026-10-20 21:03:20,374 : INFO  : main :  : NodeLogger :  :  : # Welcome to KNIME Analytics Platform v5.12.0.v202606180846 (Build June 15, 2026)       #
+2026-10-20 21:03:20,374 : INFO  : main :  : NodeLogger :  :  : # Based on Eclipse, http://www.eclipse.org                                              #
+2026-10-20 21:03:20,374 : INFO  : main :  : NodeLogger :  :  : #                                                                                       #
+2026-10-20 21:03:20,374 : INFO  : main :  : NodeLogger :  :  : #########################################################################################
+2026-10-20 21:03:20,374 : INFO  : main :  : NodeLogger :  :  : #                                                                                       #
+2026-10-20 21:03:20,374 : INFO  : main :  : NodeLogger :  :  : # Copyright by KNIME AG, Zurich, Switzerland and others.                                #
+2026-10-20 21:03:20,374 : INFO  : main :  : NodeLogger :  :  : # Website: http://www.knime.com                                                         #
+2026-10-20 21:03:20,374 : INFO  : main :  : NodeLogger :  :  : # E-mail: contact@knime.com                                                             #
+2026-10-20 21:03:20,374 : INFO  : main :  : NodeLogger :  :  : #                                                                                       #
+2026-10-20 21:03:20,374 : INFO  : main :  : NodeLogger :  :  : #########################################################################################
+2026-10-20 21:03:20,374 : INFO  : main :  : NodeLogger :  :  : # For more details see the KNIME log file:                                              #
+2026-10-20 21:03:20,374 : INFO  : main :  : NodeLogger :  :  : # /Users/dbatista/isi-auth-audit/dataintegration/ISI-PL/.metadata/knime/knime.log
+2026-10-20 21:03:20,374 : INFO  : main :  : NodeLogger :  :  : #---------------------------------------------------------------------------------------#
+2026-10-20 21:03:20,379 : INFO  : main :  : NodeLogger :  :  : # logging date=Tue Oct 20 21:03:20 WEST 2026
+2026-10-20 21:03:20,379 : INFO  : main :  : NodeLogger :  :  : # java.version=21.0.9
+2026-10-20 21:03:20,379 : INFO  : main :  : NodeLogger :  :  : # java.vm.version=21.0.9+10-LTS
+2026-10-20 21:03:20,379 : INFO  : main :  : NodeLogger :  :  : # java.vendor=Eclipse Adoptium
+2026-10-20 21:03:20,379 : INFO  : main :  : NodeLogger :  :  : # os.name=Mac OS X
+2026-10-20 21:03:20,379 : INFO  : main :  : NodeLogger :  :  : # os.arch=aarch64
+2026-10-20 21:03:20,379 : INFO  : main :  : NodeLogger :  :  : # number of CPUs=10
+2026-10-20 21:03:20,379 : INFO  : main :  : NodeLogger :  :  : # assertions=off
+2026-10-20 21:03:20,386 : INFO  : main :  : NodeLogger :  :  : # host=MacBook-Pro-de-Daniel-2.local
+2026-10-20 21:03:20,388 : INFO  : main :  : NodeLogger :  :  : # username=dbatista
+2026-10-20 21:03:20,388 : INFO  : main :  : NodeLogger :  :  : # max mem=2048MB
+2026-10-20 21:03:20,389 : INFO  : main :  : NodeLogger :  :  : # application=org.knime.product.KNIME_APPLICATION
+2026-10-20 21:03:20,392 : INFO  : main :  : NodeLogger :  :  : # KNID=11-c9247fbebbc9a0a1-01-f735c5c907588cde
+2026-10-20 21:03:20,392 : INFO  : main :  : NodeLogger :  :  : #########################################################################################
+2026-10-20 21:03:19,813 : INFO  : main :  : RegisterBouncyCastleProvider :  :  : Added BouncyCastleProvider to Java Security providers
+2026-10-20 21:03:21,676 : INFO  : main :  : StringHistory :  :  : History file '/Users/dbatista/isi-auth-audit/dataintegration/ISI-PL/.metadata/knime/history_database_drivers.txt' does not exist.
+2026-10-20 21:03:21,676 : INFO  : main :  : StringHistory :  :  : History file '/Users/dbatista/isi-auth-audit/dataintegration/ISI-PL/.metadata/knime/history_database_urls.txt' does not exist.
+2026-10-20 21:03:22,141 : INFO  : main :  : KNIMECorePlugin :  :  : Setting console view log level to WARN
+2026-10-20 21:03:22,210 : INFO  : Node Repository Initializer :  : StringHistory :  :  : History file '/Users/dbatista/isi-auth-audit/dataintegration/ISI-PL/.metadata/knime/history_string2date-formats.txt' does not exist.
+2026-10-20 21:03:22,220 : INFO  : Node Repository Initializer :  : MovingAggregationNodeFactory :  :  : Modern dialog for Moving Aggregator node can be enabled via system property "org.knime.base.node.preproc.groupby.dialog". Note: This property will be removed in a future version.
+
+2026-10-20 21:03:22,669 : INFO  : Worker-1: Workflow Coach loader :  : Pivot2NodeFactory :  :  : Modern dialog for Pivot node can be enabled via system property "org.knime.base.node.preproc.groupby.dialog". Note: This property will be removed in a future version.
+
+2026-10-20 21:03:22,906 : INFO  : main :  : ProcessWatchdog :  :  : KNIME Process Watchdog memory limit not configured
+2026-10-20 21:03:22,906 : INFO  : main :  : ProcessWatchdog :  :  : External process memory watchdog is disabled, because the memory limit is set to -1
+2026-10-20 21:03:22,957 : INFO  : main :  : KNIMECorePlugin :  :  : Setting console view log level to OFF
+2026-10-20 21:03:23,010 : INFO  : Worker-1: Workflow Coach loader :  : ColumnAggregatorNodeFactory :  :  : Modern dialog for Column Aggregator node can be enabled via system property "org.knime.base.node.preproc.groupby.dialog". Note: This property will be removed in a future version.
+
+2026-10-20 21:03:23,096 : INFO  : Worker-1: Workflow Coach loader :  : GroupByNodeFactory :  :  : Modern dialog for GroupBy node can be enabled via system property "org.knime.base.node.preproc.groupby.dialog". Note: This property will be removed in a future version.
+
+2026-10-20 21:03:23,338 : INFO  : Node Repository Initializer :  : StringHistory :  :  : History file '/Users/dbatista/isi-auth-audit/dataintegration/ISI-PL/.metadata/knime/history_createFileNameHistoryKey.txt' does not exist.
+2026-10-20 21:03:23,556 : INFO  : main :  : StringHistory :  :  : History file '/Users/dbatista/isi-auth-audit/dataintegration/ISI-PL/.metadata/knime/history_org.knime.kerberos.name.txt' does not exist.
+2026-10-20 21:03:23,635 : INFO  : main :  : KNIMECorePlugin :  :  : Setting console view log level to WARN
+2026-10-20 21:03:24,051 : INFO  : Node Repository Initializer :  : DBDriverRegistry :  :  : Could not find any driver for DBType: DBType(id=vertica, name=Vertica, description=Vertica Analytics Platform)
+2026-10-20 21:03:24,086 : INFO  : Node Repository Initializer :  : DBDriverRegistry :  :  : Could not find any driver for DBType: DBType(id=vertica, name=Vertica, description=Vertica Analytics Platform)
+2026-10-20 21:03:24,103 : INFO  : Worker-1: Workflow Coach loader :  : StringHistory : File Reader (deprecated) : 2:4:4 : History file '/Users/dbatista/isi-auth-audit/dataintegration/ISI-PL/.metadata/knime/history_ASCIIfile.txt' does not exist.
+2026-10-20 21:03:24,119 : INFO  : Node Repository Initializer :  : DBDriverRegistry :  :  : Could not find any driver for DBType: DBType(id=vertica, name=Vertica, description=Vertica Analytics Platform)
+2026-10-20 21:03:24,127 : INFO  : Node Repository Initializer :  : DBDriverRegistry :  :  : Could not find any driver for DBType: DBType(id=mssqlserver, name=Microsoft SQL Server, description=null)
+2026-10-20 21:03:24,137 : INFO  : Node Repository Initializer :  : DBDriverRegistry :  :  : Could not find any driver for DBType: DBType(id=mssqlserver, name=Microsoft SQL Server, description=null)
+2026-10-20 21:03:24,137 : INFO  : Node Repository Initializer :  : DBDriverRegistry :  :  : Could not find any driver for DBType: DBType(id=mssqlserver, name=Microsoft SQL Server, description=null)
+2026-10-20 21:03:24,143 : INFO  : Node Repository Initializer :  : DBDriverRegistry :  :  : Could not find any driver for DBType: DBType(id=oracle, name=Oracle, description=null)
+2026-10-20 21:03:24,145 : INFO  : Node Repository Initializer :  : DBDriverRegistry :  :  : Could not find any driver for DBType: DBType(id=oracle, name=Oracle, description=null)
+2026-10-20 21:03:24,145 : INFO  : Node Repository Initializer :  : DBDriverRegistry :  :  : Could not find any driver for DBType: DBType(id=oracle, name=Oracle, description=null)
+2026-10-20 21:03:24,165 : INFO  : main :  : KnimeBrowserView :  :  : %cinfo%c Injecting global logger 
+      background: #00BCD4;
+      border-radius: 0.5em;
+      color: white;
+      font-weight: bold;
+      padding: 2px 0.5em;
+      (source: https://org.knime.ui.java/editor/assets/editor-CIijjzSo.js; line: 55)
+2026-10-20 21:03:24,304 : INFO  : Worker-1: Workflow Coach loader :  : NodeRecommendationManager :  :  : Loading node recommendations from <org.knime.core.ui.workflowcoach.data.PrefsTripleProvider>
+2026-10-20 21:03:24,304 : INFO  : Worker-1: Workflow Coach loader :  : NodeRecommendationManager :  :  : Loading node recommendations from <org.knime.workbench.workflowcoach.data.CommunityTripleProvider>
+2026-10-20 21:03:24,304 : INFO  : Worker-1: Workflow Coach loader :  : NodeRecommendationManager :  :  : Loading node recommendations from <org.knime.workbench.workflowcoach.local.data.WorkspaceTripleProvider>
+2026-10-20 21:03:24,619 : ERROR : Thread-939 :  : KnimeBrowserView :  :  : Problem loading UI resources at 'https://org.knime.ui.java/videos/5-4-Explain-Workflow.webm'. See log for details.
+java.lang.NullPointerException: Cannot invoke "java.net.URL.openStream()" because the return value of "org.eclipse.core.runtime.FileLocator.toFileURL(java.net.URL)" is null
+	at org.knime.ui.java.browser.lifecycle.Create.lambda$4(Create.java:187)
+	at org.knime.js.cef.middleware.CEFMiddlewareService.lambda$1(CEFMiddlewareService.java:180)
+	at com.equo.middleware.ee.provider.handler.DelegatingSchemeHandler.getResponseData(DelegatingSchemeHandler.java:61)
+	at com.equo.chromium.swt.internal.spi.DelegatingCefResourceHandler.getResponseHeaders(DelegatingCefResourceHandler.java:57)
+2026-10-20 21:03:46,540 : ERROR : main :  : KnimeBrowserView :  :  : %cerror%c Unhandled rejection:: 
+      background: #c0392b;
+      border-radius: 0.5em;
+      color: white;
+      font-weight: bold;
+      padding: 2px 0.5em;
+      [object PromiseRejectionEvent] (source: https://org.knime.ui.java/editor/assets/editor-CIijjzSo.js; line: 55)
+2026-10-20 21:03:46,540 : ERROR : main :  : KnimeBrowserView :  :  : Uncaught (in promise) AbortError: The play() request was interrupted because the media was removed from the document. https://goo.gl/LdLk22 (source: https://org.knime.ui.java/editor/index.html#/space-browsing/local/Local-space-id/local/root; line: 0)
+2026-10-20 21:03:48,814 : WARN  : ModalContext :  : Node : PostgreSQL Connector : 3:15 : DB Connection no longer available. Go to advanced settings to enable connection restoration.
+2026-10-20 21:04:35,315 : ERROR : KNIME-Worker-0-XML Reader 3:4 :  : Node : XML Reader : 3:4 : Execute failed: The specified file /Users/dbatista/isi-auth-audit/data/users.xml does not exist.
+org.knime.core.node.InvalidSettingsException: The specified file /Users/dbatista/isi-auth-audit/data/users.xml does not exist.
+	at org.knime.core.node.util.CheckUtils.checkSetting(CheckUtils.java:274)
+	at org.knime.core.node.util.CheckUtils.checkSetting(CheckUtils.java:224)
+	at org.knime.filehandling.core.defaultnodesettings.filechooser.AbstractFileChooserPathAccessor.getRootPath(AbstractFileChooserPathAccessor.java:323)
+	at org.knime.filehandling.core.defaultnodesettings.filechooser.AbstractFileChooserPathAccessor.getFSPaths(AbstractFileChooserPathAccessor.java:230)
+	at org.knime.filehandling.core.node.table.reader.paths.Path$1.getItems(Path.java:103)
+	at org.knime.filehandling.core.node.table.reader.CommonTableReaderNodeModel.getPaths(CommonTableReaderNodeModel.java:211)
+	at org.knime.filehandling.core.node.table.reader.CommonTableReaderNodeModel.execute(CommonTableReaderNodeModel.java:174)
+	at org.knime.core.node.NodeModel.executeModel(NodeModel.java:605)
+	at org.knime.core.node.Node.invokeFullyNodeModelExecute(Node.java:1341)
+	at org.knime.core.node.Node.execute(Node.java:1039)
+	at org.knime.core.node.workflow.NativeNodeContainer.performExecuteNode(NativeNodeContainer.java:618)
+	at org.knime.core.node.exec.LocalNodeExecutionJob.mainExecute(LocalNodeExecutionJob.java:98)
+	at org.knime.core.node.workflow.NodeExecutionJob.internalRun(NodeExecutionJob.java:202)
+	at org.knime.core.node.workflow.NodeExecutionJob.run(NodeExecutionJob.java:121)
+	at org.knime.core.util.ThreadUtils$RunnableWithContextImpl.runWithContext(ThreadUtils.java:369)
+	at org.knime.core.util.ThreadUtils$RunnableWithContext.run(ThreadUtils.java:223)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source)
+	at java.base/java.util.concurrent.FutureTask.run(Unknown Source)
+	at org.knime.core.util.ThreadPool$MyFuture.run(ThreadPool.java:143)
+	at org.knime.core.util.ThreadPool$Worker.run(ThreadPool.java:277)
+2026-10-20 21:04:35,315 : ERROR : KNIME-Worker-2-Line Reader 3:1 :  : Node : Line Reader : 3:1 : Execute failed: The specified file /Users/dbatista/isi-auth-audit/data/auth.log does not exist.
+org.knime.core.node.InvalidSettingsException: The specified file /Users/dbatista/isi-auth-audit/data/auth.log does not exist.
+	at org.knime.core.node.util.CheckUtils.checkSetting(CheckUtils.java:274)
+	at org.knime.core.node.util.CheckUtils.checkSetting(CheckUtils.java:224)
+	at org.knime.filehandling.core.defaultnodesettings.filechooser.AbstractFileChooserPathAccessor.getRootPath(AbstractFileChooserPathAccessor.java:323)
+	at org.knime.filehandling.core.defaultnodesettings.filechooser.AbstractFileChooserPathAccessor.getFSPaths(AbstractFileChooserPathAccessor.java:230)
+	at org.knime.filehandling.core.node.table.reader.paths.Path$1.getItems(Path.java:103)
+	at org.knime.filehandling.core.node.table.reader.CommonTableReaderNodeModel.getPaths(CommonTableReaderNodeModel.java:211)
+	at org.knime.filehandling.core.node.table.reader.CommonTableReaderNodeModel.execute(CommonTableReaderNodeModel.java:174)
+	at org.knime.core.node.NodeModel.executeModel(NodeModel.java:605)
+	at org.knime.core.node.Node.invokeFullyNodeModelExecute(Node.java:1341)
+	at org.knime.core.node.Node.execute(Node.java:1039)
+	at org.knime.core.node.workflow.NativeNodeContainer.performExecuteNode(NativeNodeContainer.java:618)
+	at org.knime.core.node.exec.LocalNodeExecutionJob.mainExecute(LocalNodeExecutionJob.java:98)
+	at org.knime.core.node.workflow.NodeExecutionJob.internalRun(NodeExecutionJob.java:202)
+	at org.knime.core.node.workflow.NodeExecutionJob.run(NodeExecutionJob.java:121)
+	at org.knime.core.util.ThreadUtils$RunnableWithContextImpl.runWithContext(ThreadUtils.java:369)
+	at org.knime.core.util.ThreadUtils$RunnableWithContext.run(ThreadUtils.java:223)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source)
+	at java.base/java.util.concurrent.FutureTask.run(Unknown Source)
+	at org.knime.core.util.ThreadPool$MyFuture.run(ThreadPool.java:143)
+	at org.knime.core.util.ThreadPool$Worker.run(ThreadPool.java:277)
+2026-10-20 21:04:35,411 : INFO  : KNIME-Worker-1-PostgreSQL Connector 3:15 :  : LocalNodeExecutionJob : PostgreSQL Connector : 3:15 : PostgreSQL Connector 3:15 End execute (0 secs)
+2026-10-20 21:05:14,770 : INFO  : KNIME-Worker-0-XML Reader 3:4 :  : LocalNodeExecutionJob : XML Reader : 3:4 : XML Reader 3:4 End execute (0 secs)
+2026-10-20 21:05:20,663 : INFO  : KNIME-Worker-1-Line Reader 3:1 :  : LocalNodeExecutionJob : Line Reader : 3:1 : Line Reader 3:1 End execute (0 secs)
+2026-10-20 21:05:23,034 : INFO  : KNIME-Worker-2-XML Reader 3:4 :  : LocalNodeExecutionJob : XML Reader : 3:4 : XML Reader 3:4 End execute (0 secs)
+2026-10-20 21:05:33,314 : INFO  : KNIME-Worker-0-XPath 3:5 :  : LocalNodeExecutionJob : XPath : 3:5 : XPath 3:5 End execute (0 secs)
+2026-10-20 21:05:33,318 : INFO  : KNIME-Worker-1-String Splitter (Regex) 3:2 :  : LocalNodeExecutionJob : String Splitter (Regex) : 3:2 : String Splitter (Regex) 3:2 End execute (0 secs)
+2026-10-20 21:05:33,338 : INFO  : KNIME-Worker-4-Column Renamer 3:3 :  : LocalNodeExecutionJob : Column Renamer : 3:3 : Column Renamer 3:3 End execute (0 secs)
+2026-10-20 21:05:33,361 : INFO  : KNIME-Worker-2-Joiner 3:6 :  : LocalNodeExecutionJob : Joiner : 3:6 : Joiner 3:6 End execute (0 secs)
+2026-10-20 21:05:33,365 : INFO  : KNIME-Worker-0-Rule Engine 3:7 :  : LocalNodeExecutionJob : Rule Engine : 3:7 : Rule Engine 3:7 End execute (0 secs)
+2026-10-20 21:05:33,448 : INFO  : KNIME-Worker-1-Duplicate Row Filter 3:8 :  : LocalNodeExecutionJob : Duplicate Row Filter : 3:8 : Duplicate Row Filter 3:8 End execute (0 secs)
+2026-10-20 21:05:33,453 : INFO  : KNIME-Worker-4-String Manipulation 3:9 :  : LocalNodeExecutionJob : String Manipulation : 3:9 : String Manipulation 3:9 End execute (0 secs)
+2026-10-20 21:05:33,457 : INFO  : KNIME-Worker-2-GET Request 3:10 :  : RestNodeModel : GET Request : 3:10 : The KNIME-wide proxy settings are activated but none were specified. Defaulting to using no proxy.
+2026-10-20 21:05:33,459 : INFO  : KNIME-Worker-2-GET Request 3:10 :  : AbstractRequestExecutor : GET Request : 3:10 : Limiting concurrent REST Client node requests to 30 (default value, system property "org.knime.rest.maxConcurrentRequests" not set)
+2026-10-20 21:05:34,823 : INFO  : KNIME-Worker-2-GET Request 3:10 :  : LocalNodeExecutionJob : GET Request : 3:10 : GET Request 3:10 End execute (1 sec)
+2026-10-20 21:05:34,848 : INFO  : KNIME-Worker-1-JSON Path 3:11 :  : LocalNodeExecutionJob : JSON Path : 3:11 : JSON Path 3:11 End execute (0 secs)
+2026-10-20 21:05:34,857 : INFO  : KNIME-Worker-0-Joiner 3:12 :  : LocalNodeExecutionJob : Joiner : 3:12 : Joiner 3:12 End execute (0 secs)
+2026-10-20 21:05:34,870 : INFO  : KNIME-Worker-7-GroupBy 3:18 :  : LocalNodeExecutionJob : GroupBy : 3:18 : GroupBy 3:18 End execute (0 secs)
+2026-10-20 21:05:34,893 : INFO  : KNIME-Worker-6-Row Filter 3:17 :  : LocalNodeExecutionJob : Row Filter : 3:17 : Row Filter 3:17 End execute (0 secs)
+2026-10-20 21:05:34,896 : INFO  : KNIME-Worker-2-Table to JSON 3:20 :  : LocalNodeExecutionJob : Table to JSON : 3:20 : Table to JSON 3:20 End execute (0 secs)
+2026-10-20 21:05:34,907 : ERROR : KNIME-Worker-8-JSON Writer 3:19 :  : Node : JSON Writer : 3:19 : Execute failed: The file 'output/blocked_ips.json/File_0blocked_ips.json.json' already exists and must not be overwritten
+java.lang.IllegalStateException: The file 'output/blocked_ips.json/File_0blocked_ips.json.json' already exists and must not be overwritten
+	at org.knime.filehandling.core.node.table.writer.AbstractMultiTableWriterCellFactory.write(AbstractMultiTableWriterCellFactory.java:151)
+	at org.knime.filehandling.core.node.table.writer.AbstractMultiTableWriterCellFactory.getCells(AbstractMultiTableWriterCellFactory.java:133)
+	at org.knime.core.data.container.CellFactory.getCells(CellFactory.java:98)
+	at org.knime.core.data.container.RearrangeColumnsTable.calcNewCellsForRow(RearrangeColumnsTable.java:565)
+	at org.knime.core.data.container.RearrangeColumnsTable.calcNewColsSynchronously(RearrangeColumnsTable.java:484)
+	at org.knime.core.data.container.RearrangeColumnsTable.create(RearrangeColumnsTable.java:412)
+	at org.knime.core.data.container.BufferedTableBackend.rearrange(BufferedTableBackend.java:212)
+	at org.knime.core.node.ExecutionContext.createColumnRearrangeTable(ExecutionContext.java:468)
+	at org.knime.filehandling.core.node.table.writer.AbstractMultiTableWriterNodeModel.execute(AbstractMultiTableWriterNodeModel.java:323)
+	at org.knime.filehandling.core.node.table.writer.AbstractMultiTableWriterNodeModel.execute(AbstractMultiTableWriterNodeModel.java:1)
+	at org.knime.core.node.NodeModel.executeModel(NodeModel.java:605)
+	at org.knime.core.node.Node.invokeFullyNodeModelExecute(Node.java:1341)
+	at org.knime.core.node.Node.execute(Node.java:1039)
+	at org.knime.core.node.workflow.NativeNodeContainer.performExecuteNode(NativeNodeContainer.java:618)
+	at org.knime.core.node.exec.LocalNodeExecutionJob.mainExecute(LocalNodeExecutionJob.java:98)
+	at org.knime.core.node.workflow.NodeExecutionJob.internalRun(NodeExecutionJob.java:202)
+	at org.knime.core.node.workflow.NodeExecutionJob.run(NodeExecutionJob.java:121)
+	at org.knime.core.util.ThreadUtils$RunnableWithContextImpl.runWithContext(ThreadUtils.java:369)
+	at org.knime.core.util.ThreadUtils$RunnableWithContext.run(ThreadUtils.java:223)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source)
+	at java.base/java.util.concurrent.FutureTask.run(Unknown Source)
+	at org.knime.core.util.ThreadPool$MyFuture.run(ThreadPool.java:143)
+	at org.knime.core.util.ThreadPool$Worker.run(ThreadPool.java:277)
+Caused by: java.nio.file.FileAlreadyExistsException: output/blocked_ips.json/File_0blocked_ips.json.json
+	at org.knime.filehandling.core.connections.base.BaseFileSystemProvider.newOutputStream(BaseFileSystemProvider.java:494)
+	at java.base/java.nio.file.Files.newOutputStream(Unknown Source)
+	at org.knime.filehandling.core.connections.FSFiles.newOutputStream(FSFiles.java:146)
+	at org.knime.filehandling.core.node.table.writer.AbstractMultiTableWriterCellFactory.getOutputStream(AbstractMultiTableWriterCellFactory.java:169)
+	at org.knime.filehandling.core.node.table.writer.AbstractMultiTableWriterCellFactory.write(AbstractMultiTableWriterCellFactory.java:147)
+	... 22 more
+2026-10-20 21:05:34,917 : INFO  : KNIME-Worker-4-DB Row Inserter 3:16 :  : LocalNodeExecutionJob : DB Row Inserter : 3:16 : DB Row Inserter 3:16 End execute (0 secs)
+2026-10-20 21:05:42,801 : ERROR : KNIME-Worker-5-JSON Writer 3:19 :  : Node : JSON Writer : 3:19 : Execute failed: The file 'output/blocked_ips.json/File_0blocked_ips.json.json' already exists and must not be overwritten
+java.lang.IllegalStateException: The file 'output/blocked_ips.json/File_0blocked_ips.json.json' already exists and must not be overwritten
+	at org.knime.filehandling.core.node.table.writer.AbstractMultiTableWriterCellFactory.write(AbstractMultiTableWriterCellFactory.java:151)
+	at org.knime.filehandling.core.node.table.writer.AbstractMultiTableWriterCellFactory.getCells(AbstractMultiTableWriterCellFactory.java:133)
+	at org.knime.core.data.container.CellFactory.getCells(CellFactory.java:98)
+	at org.knime.core.data.container.RearrangeColumnsTable.calcNewCellsForRow(RearrangeColumnsTable.java:565)
+	at org.knime.core.data.container.RearrangeColumnsTable.calcNewColsSynchronously(RearrangeColumnsTable.java:484)
+	at org.knime.core.data.container.RearrangeColumnsTable.create(RearrangeColumnsTable.java:412)
+	at org.knime.core.data.container.BufferedTableBackend.rearrange(BufferedTableBackend.java:212)
+	at org.knime.core.node.ExecutionContext.createColumnRearrangeTable(ExecutionContext.java:468)
+	at org.knime.filehandling.core.node.table.writer.AbstractMultiTableWriterNodeModel.execute(AbstractMultiTableWriterNodeModel.java:323)
+	at org.knime.filehandling.core.node.table.writer.AbstractMultiTableWriterNodeModel.execute(AbstractMultiTableWriterNodeModel.java:1)
+	at org.knime.core.node.NodeModel.executeModel(NodeModel.java:605)
+	at org.knime.core.node.Node.invokeFullyNodeModelExecute(Node.java:1341)
+	at org.knime.core.node.Node.execute(Node.java:1039)
+	at org.knime.core.node.workflow.NativeNodeContainer.performExecuteNode(NativeNodeContainer.java:618)
+	at org.knime.core.node.exec.LocalNodeExecutionJob.mainExecute(LocalNodeExecutionJob.java:98)
+	at org.knime.core.node.workflow.NodeExecutionJob.internalRun(NodeExecutionJob.java:202)
+	at org.knime.core.node.workflow.NodeExecutionJob.run(NodeExecutionJob.java:121)
+	at org.knime.core.util.ThreadUtils$RunnableWithContextImpl.runWithContext(ThreadUtils.java:369)
+	at org.knime.core.util.ThreadUtils$RunnableWithContext.run(ThreadUtils.java:223)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source)
+	at java.base/java.util.concurrent.FutureTask.run(Unknown Source)
+	at org.knime.core.util.ThreadPool$MyFuture.run(ThreadPool.java:143)
+	at org.knime.core.util.ThreadPool$Worker.run(ThreadPool.java:277)
+Caused by: java.nio.file.FileAlreadyExistsException: output/blocked_ips.json/File_0blocked_ips.json.json
+	at org.knime.filehandling.core.connections.base.BaseFileSystemProvider.newOutputStream(BaseFileSystemProvider.java:494)
+	at java.base/java.nio.file.Files.newOutputStream(Unknown Source)
+	at org.knime.filehandling.core.connections.FSFiles.newOutputStream(FSFiles.java:146)
+	at org.knime.filehandling.core.node.table.writer.AbstractMultiTableWriterCellFactory.getOutputStream(AbstractMultiTableWriterCellFactory.java:169)
+	at org.knime.filehandling.core.node.table.writer.AbstractMultiTableWriterCellFactory.write(AbstractMultiTableWriterCellFactory.java:147)
+	... 22 more
+2026-10-20 21:05:47,681 : INFO  : KNIME-Worker-1-JSON Writer 3:19 :  : LocalNodeExecutionJob : JSON Writer : 3:19 : JSON Writer 3:19 End execute (0 secs)
+2026-10-20 21:06:00,876 : INFO  : KNIME-Worker-0-DB Row Inserter 3:16 :  : LocalNodeExecutionJob : DB Row Inserter : 3:16 : DB Row Inserter 3:16 End execute (0 secs)
+2026-10-20 21:06:24,943 : INFO  : KNIME-Worker-7-DB Row Inserter 3:16 :  : LocalNodeExecutionJob : DB Row Inserter : 3:16 : DB Row Inserter 3:16 End execute (0 secs)
+2026-10-20 21:06:38,424 : INFO  : KNIME-Worker-6-DB Row Inserter 3:16 :  : LocalNodeExecutionJob : DB Row Inserter : 3:16 : DB Row Inserter 3:16 End execute (0 secs)
+2026-10-20 21:16:33,150 : INFO  : KNIME-Worker-9-DB Row Inserter 3:16 :  : LocalNodeExecutionJob : DB Row Inserter : 3:16 : DB Row Inserter 3:16 End execute (0 secs)
+2026-10-20 21:16:41,843 : INFO  : KNIME-Worker-10-DB Row Inserter 3:16 :  : LocalNodeExecutionJob : DB Row Inserter : 3:16 : DB Row Inserter 3:16 End execute (0 secs)
+2026-10-20 21:16:52,101 : INFO  : KNIME-Worker-11-DB Row Inserter 3:16 :  : LocalNodeExecutionJob : DB Row Inserter : 3:16 : DB Row Inserter 3:16 End execute (0 secs)
