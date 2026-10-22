@@ -122,7 +122,7 @@ falhas num curto intervalo.
 
 ## 7. Vídeo de demonstração
 
-**Link para o vídeo:** \[Adicionar aqui o link acessível ao vídeo\]
+**Link para o vídeo:** \[[Adicionar aqui o link acessível ao vídeo\](https://drive.google.com/file/d/1NfWFMTBdv58XdRDMQTV2Xv-TapOV6JzY/view?usp=sharing)]
 
 O vídeo demonstra o workflow KNIME, as etapas principais de
 transformação e deteção e o dashboard Grafana.
