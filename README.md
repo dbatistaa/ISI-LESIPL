@@ -38,13 +38,23 @@ concluída.
 
 ## 3. Estrutura do repositório
 
-Os nomes abaixo são indicativos. Confirme a estrutura real e remova os
-itens que não existam: - `README.md` --- descrição e instruções. -
-`generate_logs.py` --- geração de logs de teste. - `data/` --- logs e
-dados de entrada, se incluídos. - Ficheiro do workflow KNIME. -
-`docker-compose.yml` --- serviços PostgreSQL/Grafana, se incluído. -
-`init.sql` --- criação das tabelas, se incluído. - Relatório final e
-materiais de demonstração.
+O repositório contém os seguintes ficheiros e recursos do projeto:
+
+README.md — descrição do projeto e instruções de execução.
+
+generate_logs.py — script Python para gerar logs de autenticação SSH sintéticos.
+
+data/ — diretório com os ficheiros de dados utilizados no processamento.
+
+Ficheiro do workflow KNIME — definição do processo ETL de leitura, transformação, enriquecimento e deteção.
+
+docker-compose.yml — configuração dos serviços PostgreSQL e Grafana.
+
+init.sql — script SQL para inicialização da base de dados e criação das tabelas.
+
+Relatório final — documentação do trabalho desenvolvido.
+
+Vídeo de demonstração — apresentação do workflow e dos resultados obtidos.
 
 ## 4. Pré-requisitos
 
